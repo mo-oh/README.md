@@ -19,9 +19,12 @@
 
 ### 🚀 Current Projects
 
-- **Enterprise Security Lab:** Multi-VLAN network with advanced threat simulation
-- **Threat Hunting Platform:** Custom Python tools for log analysis and IOC correlation
+- [Enterprise Security Lab: Red vs Blue](https://github.com/mo-oh/cybersecuritylab-red-vs-blue-v1)  
+  A hands-on, full-spectrum cybersecurity lab simulating real-world attack and defense scenarios using Kali Linux, Metasploitable2, and Security Onion. Includes offensive exploitation, SIEM detection, and post-mortem analysis.
+
+--- **COMING SOON, STAY TUNED** ---
 - **Cloud SIEM:** Microsoft Sentinel deployment with automated response playbooks
+- **Threat Hunting Platform:** Custom Python tools for log analysis and IOC correlation
 - **Security Automation:** PowerShell and Python scripts for incident response
 
 ---
